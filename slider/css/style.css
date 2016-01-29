@@ -59,8 +59,9 @@
 }
 .ei-slider-thumbs{
 	height: 13px;
-	margin: 0 auto;
+	margin: -44px auto 0;
 	position: relative;
+	z-index: 999;
 }
 .ei-slider-thumbs li{
 	position: relative;
