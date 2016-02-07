@@ -46,14 +46,14 @@
 .ei-title h2{
 	font-size: 40px;
 	line-height: 50px;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Lato', sans-serif;
 	font-style: italic;
 	color: #b5b5b5;
 }
 .ei-title h3{
 	font-size: 70px;
 	line-height: 70px;
-	font-family: 'Open Sans Condensed', sans-serif;
+	font-family: 'Lato', sans-serif;
 	text-transform: uppercase;
 	color: #000;
 }
