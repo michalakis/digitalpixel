@@ -1,4 +1,4 @@
-#collapseOne .panel-body {
+.panel-body {
 	-ms-box-orient: horizontal;
 	display: -webkit-box;
 	display: -moz-box;
@@ -10,8 +10,12 @@
  	justify-content: space-between;
 }
 
-#collapseOne .panel-body div {
+.panel-body .panel-wrapper {
 	width: 20%;
+}
+
+.panel-wrapper img {
+	margin-bottom: 20px;
 }
 
 /*-----------------------------------------------------------------------------------
