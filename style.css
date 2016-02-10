@@ -1,3 +1,19 @@
+#collapseOne .panel-body {
+	-ms-box-orient: horizontal;
+	display: -webkit-box;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -moz-flex;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-justify-content: space-between;
+ 	justify-content: space-between;
+}
+
+#collapseOne .panel-body div {
+	width: 20%;
+}
+
 /*-----------------------------------------------------------------------------------
 
 	Theme Name: Canvas
