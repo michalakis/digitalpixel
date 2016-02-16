@@ -18,6 +18,10 @@
 	margin-bottom: 20px;
 }
 
+#slideshow ul li {
+	list-style-type: none;
+}
+
 /*-----------------------------------------------------------------------------------
 
 	Theme Name: Canvas
