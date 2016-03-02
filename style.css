@@ -22,6 +22,19 @@
 	list-style-type: none;
 }
 
+.panel-text {
+	padding: 0 40px;
+}
+
+.panel-text h5 {
+	color: navy;
+	margin-bottom: 0;
+}
+
+.panel-text .text {
+	margin-bottom: 20px;
+}
+
 /*-----------------------------------------------------------------------------------
 
 	Theme Name: Canvas
