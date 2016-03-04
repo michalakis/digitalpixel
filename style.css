@@ -31,8 +31,31 @@
 	margin-bottom: 0;
 }
 
-.panel-text .text, .panel-text .text p {
+.panel-text .text {
 	margin-bottom: 20px;
+}
+
+.panel-text .text h5 {
+	display: inline-block;
+	margin-right: 100px;
+}
+
+.panel-text .text ul li {
+	list-style-type: none;
+	margin-left: 50px;
+}
+
+.panel-heading {
+	padding: 0;
+}
+
+h4.panel-title a {
+	display: block;
+	padding: 10px 15px;
+}
+
+.ei-slider-thumbs {
+	z-index: 100!important;
 }
 
 /*-----------------------------------------------------------------------------------
