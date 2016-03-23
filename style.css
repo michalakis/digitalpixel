@@ -1,5 +1,42 @@
 #top-search {
-	margin: 25px 0 40px 15px !important;
+	margin: 25px 0 40px 10px !important;
+}
+
+#header.full-header #primary-menu > ul {
+	padding: 0 !important;
+}
+
+#primary-menu ul li a {
+	line-height: 13px !important;
+	padding: 40px 16px !important;
+}
+
+#header.sticky-header:not(.static-sticky) #primary-menu > ul > li > a {
+	padding: 16px !important;
+}
+
+#header.full-header #logo {
+    padding-right: 10px !important;
+    margin-right: 10px !important;
+}
+
+.panel-text.test {
+	-ms-box-orient: horizontal;
+	display: -webkit-box;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -moz-flex;
+	display: -webkit-flex;
+	display: flex;
+}
+
+.test-subject {
+	width: 65%;
+	padding-right: 20px;
+}
+
+body.stretched #header.full-header .container {
+    padding: 0 10px !important;
 }
 
 .panel-body {
